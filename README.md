@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.png" alt="Cabecera tecnológica del perfil de Andrés Zambrana Linares" width="100%" />
+  <img src="assets/profile-banner-v2.png" alt="Cabecera tecnológica en tonos crema, salvia y terracota del perfil de Andrés Zambrana Linares" width="100%" />
 
   <h1>Hola, soy Andrés 👋</h1>
   <p><strong>Desarrollo aplicaciones web y herramientas que resuelven problemas concretos.</strong></p>
