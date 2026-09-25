@@ -29,14 +29,18 @@ Me interesa construir software útil, claro y fácil de mantener. En mis reposit
 | [Mundial Bets](https://github.com/andreszambranalinares-stack/Mundial-Bets) | Juego de pronósticos de fútbol con fichas virtuales, sin dinero real. |
 | [Inazudle](https://github.com/andreszambranalinares-stack/inazudle) | Juego web inspirado en el universo de Inazuma Eleven. |
 
+[Ver los 15 repositorios de proyectos personales →](https://github.com/search?q=user%3Aandreszambranalinares-stack+topic%3Aproyecto-personal&type=repositories)
+
 ### Estudios y prácticas
 
 | Área | Repositorios |
 | --- | --- |
 | Despliegue y nube | [DACSN 2026–2027](https://github.com/andreszambranalinares-stack/dacsn-2627) |
 | Entornos de desarrollo | [Práctica con Claude](https://github.com/andreszambranalinares-stack/ProyectoEntornosClaude) · [Práctica con Cursor](https://github.com/andreszambranalinares-stack/ProyectoEntornosCursor) · [Proyecto final](https://github.com/andreszambranalinares-stack/ProyectoFinalEntornosDesarrolo) |
-| Lenguaje de marcas | [Proyecto final](https://github.com/andreszambranalinares-stack/ProyectoFinalLenguajeMarcas) · [Ejercicios](https://github.com/andreszambranalinares-stack/lenguajemarcas) |
+| Lenguaje de marcas | [Ejercicios](https://github.com/andreszambranalinares-stack/lenguajemarcas) |
 | Apuntes | [Desarrollo](https://github.com/andreszambranalinares-stack/apuntesDesarrollo) · [Móvil](https://github.com/andreszambranalinares-stack/apuntesMovil) · [Generales](https://github.com/andreszambranalinares-stack/apuntes) |
+
+[Ver los 8 repositorios de estudios →](https://github.com/search?q=user%3Aandreszambranalinares-stack+topic%3Aestudios-dam&type=repositories)
 
 ### Tecnologías que aparecen en mis proyectos
 
