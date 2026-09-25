@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner-cream.png" alt="Cabecera tecnológica color crema del perfil de Andrés Zambrana Linares" width="100%" />
+  <img src="assets/profile-banner-shawn.png" alt="Cabecera crema con una silueta inspirada en Shawn Froste" width="100%" />
 
   <h1>Hola, soy Andrés 👋</h1>
   <p><strong>Desarrollo aplicaciones web y herramientas que resuelven problemas concretos.</strong></p>
