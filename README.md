@@ -1,10 +1,10 @@
 <img src="assets/profile-banner.svg" alt="Andrés Zambrana Linares · Desarrollo de software" width="100%" />
 
-Desarrollo aplicaciones web y herramientas de gestión. Me interesa conectar interfaces claras con la lógica y los datos que necesitan para funcionar.
+**Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).** Desarrollo aplicaciones web y herramientas de gestión. Me interesa conectar interfaces claras con la lógica y los datos que necesitan para funcionar.
 
 **Java · JavaScript · TypeScript · React · Spring Boot · PostgreSQL**
 
-[Web personal](https://andreszambranalinares-stack.github.io/) · [Proyectos](#proyectos-destacados)
+[Web personal](https://andreszambranalinares-stack.github.io/) · [Proyectos](#proyectos-destacados) · [Trabajos del curso](#proyectos-y-ejercicios-del-curso)
 
 ### Proyectos destacados
 
@@ -17,10 +17,16 @@ Desarrollo aplicaciones web y herramientas de gestión. Me interesa conectar int
 | **[Alimentación Miguel](https://github.com/andreszambranalinares-stack/TPVAlimentacion-Miguel)** | TPV, inventario, códigos de barras e informes para una tienda.<br><sub>Java · Spring Boot · React · PostgreSQL</sub> |
 | **[Zambrana TPV](https://github.com/andreszambranalinares-stack/Zambrana-TPV)** · [Abrir](https://andreszambranalinares-stack.github.io/Zambrana-TPV/) | Punto de venta para hostelería con mesas, comandas y roles.<br><sub>JavaScript · PWA</sub> |
 
-### Más proyectos
+### Proyectos y ejercicios del curso
 
-- **[Mundial Bets](https://github.com/andreszambranalinares-stack/Mundial-Bets)** — pronósticos de fútbol con ligas, clasificación y fichas virtuales, sin dinero real. React, TypeScript y Supabase.
-- **[Inazudle](https://github.com/andreszambranalinares-stack/inazudle)** · [Jugar](https://andreszambranalinares-stack.github.io/inazudle/) — juego de adivinar personajes de Inazuma Eleven mediante pistas.
-- **[Validador de socios](https://github.com/andreszambranalinares-stack/ProyectoFinalEntornosDesarrolo)** — herramienta para revisar correos de un CSV y separar los resultados válidos e inválidos.
+Trabajos, ejercicios y materiales de estudio que realizo durante DAM.
 
-Cada repositorio incluye su código y documentación para conocer el proyecto y ejecutarlo.
+| Área | Trabajos realizados |
+| --- | --- |
+| Entornos de Desarrollo | [Validador de socios](https://github.com/andreszambranalinares-stack/ProyectoFinalEntornosDesarrolo): revisión de correos en CSV, interfaz web y versión Node.js. |
+| Herramientas de desarrollo | Prácticas de validación de correos con [Claude](https://github.com/andreszambranalinares-stack/ProyectoEntornosClaude) y [Cursor](https://github.com/andreszambranalinares-stack/ProyectoEntornosCursor). |
+| Lenguaje de Marcas | [Material de estudio](https://github.com/andreszambranalinares-stack/lenguajemarcas) con teoría, glosario y ejercicios. |
+| Java | [Apuntes y ejercicios interactivos](https://github.com/andreszambranalinares-stack/apuntes) · [Versión móvil](https://github.com/andreszambranalinares-stack/apuntesMovil). |
+| Entornos de Desarrollo: teoría | [Apuntes del módulo](https://github.com/andreszambranalinares-stack/apuntesDesarrollo). |
+
+Otros repositorios del curso: [Despliegue y nube](https://github.com/andreszambranalinares-stack/dacsn-2627) y [Proyecto final de Lenguaje de Marcas](https://github.com/andreszambranalinares-stack/ProyectoFinalLenguajeMarcas), todavía sin contenido.
