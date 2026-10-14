@@ -1,53 +1,26 @@
-<div align="center">
-  <img src="assets/profile-banner-shawn.png" alt="Cabecera crema con una silueta inspirada en Shawn Froste" width="100%" />
+<img src="assets/profile-banner.svg" alt="Andrés Zambrana Linares · Desarrollo de software" width="100%" />
 
-  <h1>Hola, soy Andrés 👋</h1>
-  <p><strong>Desarrollo aplicaciones web y herramientas que resuelven problemas concretos.</strong></p>
-  <p>Estudiante de 2.º de DAM · Java · JavaScript · TypeScript · PWA</p>
+Desarrollo aplicaciones web y herramientas para organizar información, gestionar negocios y resolver necesidades cotidianas. Me gusta trabajar tanto en la interfaz como en la lógica y los datos que hay detrás.
 
-  <p>
-    <a href="#proyectos-propios">Proyectos propios</a> ·
-    <a href="#estudios-y-prácticas">Estudios y prácticas</a> ·
-    <a href="https://andreszambranalinares-stack.github.io/ZamProp/">Ver ZamProp</a>
-  </p>
-</div>
+**Java · JavaScript · TypeScript · React · Spring Boot · PostgreSQL**
 
----
+[Web personal](https://andreszambranalinares-stack.github.io/) · [Proyectos](#proyectos-destacados)
 
-### Sobre mí
+### Proyectos destacados
 
-Me interesa construir software útil, claro y fácil de mantener. En mis repositorios encontrarás aplicaciones de gestión, experiencias web y prácticas de Desarrollo de Aplicaciones Multiplataforma. Esta portada separa mis proyectos personales del trabajo académico para que puedas explorar cada área con facilidad.
+| Proyecto | Qué hace | Tecnologías |
+| --- | --- | --- |
+| **[Jerez Bus](https://github.com/andreszambranalinares-stack/jerez-bus)** · [Abrir](https://jerez-bus-facil.andreszambranalinare.chatgpt.site) | Consulta de líneas, paradas y horarios; planificación de trayectos. | React · TypeScript · Vinext |
+| **[LA.PAKI GEMZZ](https://github.com/andreszambranalinares-stack/lapakigemzz)** · [Abrir](https://andreszambranalinares-stack.github.io/lapakigemzz/) | Web visual con galería filtrable, catálogo y contacto para reservas. | HTML · CSS · JavaScript |
+| **[ZamProp](https://github.com/andreszambranalinares-stack/ZamProp)** · [Abrir](https://andreszambranalinares-stack.github.io/ZamProp/) | Gestión local de propiedades, alquileres, inquilinos y recibos. | JavaScript · localStorage |
+| **[Panel Personal](https://github.com/andreszambranalinares-stack/GestorPersonal)** · [Abrir](https://andreszambranalinares-stack.github.io/GestorPersonal/) | Finanzas, tareas, hábitos y calendario en una PWA. | JavaScript · PWA · Supabase opcional |
+| **[Alimentación Miguel](https://github.com/andreszambranalinares-stack/TPVAlimentacion-Miguel)** | TPV, inventario, códigos de barras e informes para una tienda. | Java · Spring Boot · React · PostgreSQL |
+| **[Zambrana TPV](https://github.com/andreszambranalinares-stack/Zambrana-TPV)** · [Abrir](https://andreszambranalinares-stack.github.io/Zambrana-TPV/) | Punto de venta para hostelería con mesas, comandas y roles. | JavaScript · PWA |
 
-### Proyectos propios
+### Más proyectos
 
-| Proyecto | Qué encontrarás |
-| --- | --- |
-| [Panel Personal](https://github.com/andreszambranalinares-stack/GestorPersonal) | PWA para organizar finanzas, tareas, hábitos y calendario, con datos locales y copia en la nube opcional. |
-| [ZamProp](https://github.com/andreszambranalinares-stack/ZamProp) · [abrir aplicación](https://andreszambranalinares-stack.github.io/ZamProp/) | Gestión de propiedades, alquileres, inquilinos y facturas; funciona sin servidor. |
-| [Zambrana TPV](https://github.com/andreszambranalinares-stack/Zambrana-TPV) | Punto de venta para hostelería en formato PWA, con roles, plano de mesas y control de alérgenos. |
-| [Alimentación Miguel](https://github.com/andreszambranalinares-stack/TPVAlimentacion-Miguel) | TPV e inventario para tienda, con frontend, backend y base de datos PostgreSQL. |
-| [Mundial Bets](https://github.com/andreszambranalinares-stack/Mundial-Bets) | Juego de pronósticos de fútbol con fichas virtuales, sin dinero real. |
-| [Inazudle](https://github.com/andreszambranalinares-stack/inazudle) | Juego web inspirado en el universo de Inazuma Eleven. |
+- **[Mundial Bets](https://github.com/andreszambranalinares-stack/Mundial-Bets)** — pronósticos de fútbol con ligas, clasificación y fichas virtuales, sin dinero real. React, TypeScript y Supabase.
+- **[Inazudle](https://github.com/andreszambranalinares-stack/inazudle)** · [Jugar](https://andreszambranalinares-stack.github.io/inazudle/) — juego de adivinar personajes de Inazuma Eleven mediante pistas.
+- **[Validador de socios](https://github.com/andreszambranalinares-stack/ProyectoFinalEntornosDesarrolo)** — herramienta para revisar correos de un CSV y separar los resultados válidos e inválidos.
 
-[Ver los 15 repositorios de proyectos personales →](https://github.com/search?q=user%3Aandreszambranalinares-stack+topic%3Aproyecto-personal&type=repositories)
-
-### Estudios y prácticas
-
-| Área | Repositorios |
-| --- | --- |
-| Despliegue y nube | [DACSN 2026–2027](https://github.com/andreszambranalinares-stack/dacsn-2627) |
-| Entornos de desarrollo | [Práctica con Claude](https://github.com/andreszambranalinares-stack/ProyectoEntornosClaude) · [Práctica con Cursor](https://github.com/andreszambranalinares-stack/ProyectoEntornosCursor) · [Proyecto final](https://github.com/andreszambranalinares-stack/ProyectoFinalEntornosDesarrolo) |
-| Lenguaje de marcas | [Ejercicios](https://github.com/andreszambranalinares-stack/lenguajemarcas) |
-| Apuntes | [Desarrollo](https://github.com/andreszambranalinares-stack/apuntesDesarrollo) · [Móvil](https://github.com/andreszambranalinares-stack/apuntesMovil) · [Generales](https://github.com/andreszambranalinares-stack/apuntes) |
-
-[Ver los 8 repositorios de estudios →](https://github.com/search?q=user%3Aandreszambranalinares-stack+topic%3Aestudios-dam&type=repositories)
-
-### Tecnologías que aparecen en mis proyectos
-
-`Java` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `PWA` · `PostgreSQL` · `Supabase`
-
----
-
-<div align="center">
-  <sub>Explora los repositorios para ver el código, la documentación y el estado de cada proyecto.</sub>
-</div>
+Cada repositorio incluye su código y documentación para conocer el proyecto y ejecutarlo.

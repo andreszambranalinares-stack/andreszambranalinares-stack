@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Andrés Zambrana Linares — Desarrollo de software</title><desc id="desc">Cabecera en tonos crema y violeta con el nombre de Andrés y un motivo geométrico.</desc>
+<rect width="1200" height="250" rx="20" fill="#f5f1e8"/>
+<circle cx="1120" cy="40" r="175" fill="#e7def0"/><circle cx="1120" cy="40" r="128" fill="none" stroke="#c3b1d7" stroke-width="1"/>
+<path d="M936 170h168M1020 86v168" stroke="#aa94bd" stroke-width="1"/><circle cx="1020" cy="170" r="36" fill="#806694"/>
+<text x="56" y="62" fill="#806694" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">DESARROLLO DE SOFTWARE</text>
+<text x="52" y="126" fill="#272735" font-family="Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1">Andrés Zambrana Linares</text>
+<text x="56" y="172" fill="#64616c" font-family="Arial,sans-serif" font-size="20">Web · Aplicaciones · Herramientas de gestión</text>
+<rect x="56" y="208" width="72" height="3" rx="1.5" fill="#806694"/>
+</svg>
