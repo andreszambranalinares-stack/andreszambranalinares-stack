@@ -1,6 +1,6 @@
 <img src="assets/profile-banner.svg" alt="Andrés Zambrana Linares · Desarrollo de software" width="100%" />
 
-Desarrollo aplicaciones web y herramientas para organizar información, gestionar negocios y resolver necesidades cotidianas. Me gusta trabajar tanto en la interfaz como en la lógica y los datos que hay detrás.
+Desarrollo aplicaciones web y herramientas de gestión. Me interesa conectar interfaces claras con la lógica y los datos que necesitan para funcionar.
 
 **Java · JavaScript · TypeScript · React · Spring Boot · PostgreSQL**
 
@@ -8,14 +8,14 @@ Desarrollo aplicaciones web y herramientas para organizar información, gestiona
 
 ### Proyectos destacados
 
-| Proyecto | Qué hace | Tecnologías |
-| --- | --- | --- |
-| **[Jerez Bus](https://github.com/andreszambranalinares-stack/jerez-bus)** · [Abrir](https://jerez-bus-facil.andreszambranalinare.chatgpt.site) | Consulta de líneas, paradas y horarios; planificación de trayectos. | React · TypeScript · Vinext |
-| **[LA.PAKI GEMZZ](https://github.com/andreszambranalinares-stack/lapakigemzz)** · [Abrir](https://andreszambranalinares-stack.github.io/lapakigemzz/) | Web visual con galería filtrable, catálogo y contacto para reservas. | HTML · CSS · JavaScript |
-| **[ZamProp](https://github.com/andreszambranalinares-stack/ZamProp)** · [Abrir](https://andreszambranalinares-stack.github.io/ZamProp/) | Gestión local de propiedades, alquileres, inquilinos y recibos. | JavaScript · localStorage |
-| **[Panel Personal](https://github.com/andreszambranalinares-stack/GestorPersonal)** · [Abrir](https://andreszambranalinares-stack.github.io/GestorPersonal/) | Finanzas, tareas, hábitos y calendario en una PWA. | JavaScript · PWA · Supabase opcional |
-| **[Alimentación Miguel](https://github.com/andreszambranalinares-stack/TPVAlimentacion-Miguel)** | TPV, inventario, códigos de barras e informes para una tienda. | Java · Spring Boot · React · PostgreSQL |
-| **[Zambrana TPV](https://github.com/andreszambranalinares-stack/Zambrana-TPV)** · [Abrir](https://andreszambranalinares-stack.github.io/Zambrana-TPV/) | Punto de venta para hostelería con mesas, comandas y roles. | JavaScript · PWA |
+| Proyecto | Qué hace |
+| --- | --- |
+| **[Jerez Bus](https://github.com/andreszambranalinares-stack/jerez-bus)** · [Abrir](https://jerez-bus-facil.andreszambranalinare.chatgpt.site) | Consulta de líneas, paradas y horarios; planificación de trayectos.<br><sub>React · TypeScript · Vinext</sub> |
+| **[LA.PAKI GEMZZ](https://github.com/andreszambranalinares-stack/lapakigemzz)** · [Abrir](https://andreszambranalinares-stack.github.io/lapakigemzz/) | Web visual con galería filtrable, catálogo y contacto para reservas.<br><sub>HTML · CSS · JavaScript</sub> |
+| **[ZamProp](https://github.com/andreszambranalinares-stack/ZamProp)** · [Abrir](https://andreszambranalinares-stack.github.io/ZamProp/) | Gestión local de propiedades, alquileres, inquilinos y recibos.<br><sub>JavaScript · localStorage</sub> |
+| **[Panel Personal](https://github.com/andreszambranalinares-stack/GestorPersonal)** · [Abrir](https://andreszambranalinares-stack.github.io/GestorPersonal/) | Finanzas, tareas, hábitos y calendario en una PWA.<br><sub>JavaScript · PWA · Supabase opcional</sub> |
+| **[Alimentación Miguel](https://github.com/andreszambranalinares-stack/TPVAlimentacion-Miguel)** | TPV, inventario, códigos de barras e informes para una tienda.<br><sub>Java · Spring Boot · React · PostgreSQL</sub> |
+| **[Zambrana TPV](https://github.com/andreszambranalinares-stack/Zambrana-TPV)** · [Abrir](https://andreszambranalinares-stack.github.io/Zambrana-TPV/) | Punto de venta para hostelería con mesas, comandas y roles.<br><sub>JavaScript · PWA</sub> |
 
 ### Más proyectos
 
